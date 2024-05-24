@@ -17,7 +17,7 @@ setup(
     description="A simple Pokemon damage calculator",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/yourusername/damage_calculator",
+    url="https://github.com/siro-rai/pokemon_damade_ver.2.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
