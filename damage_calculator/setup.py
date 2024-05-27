@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="damage_calculator",
-    version="0.1.0",
+    version="0.3.0",
     packages=find_packages(),
     entry_points={
         'console_scripts': [
@@ -12,8 +12,8 @@ setup(
         ],
     },
     install_requires=[],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="siro_rai",
+    author_email="s2222013@stu.musashino-u.ac.jp",
     description="A simple Pokemon damage calculator",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
